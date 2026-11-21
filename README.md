@@ -1,2 +1,2 @@
-# lynxGNU-Linux
+# lynxGNU/Linux
 A Debian Unstable fork
